@@ -1,5 +1,5 @@
 import React from 'react';
-import { PlayCircleIcon, BookOpenIcon, CheckCircleIcon, PuzzlePieceIcon, ClockIcon } from '@heroicons/react/24/outline'; // Re-using icons
+import { PlayCircleIcon, BookOpenIcon, CheckCircleIcon,ClockIcon } from '@heroicons/react/24/outline'; // Re-using icons
 
 interface TrainingModuleCardProps {
   title: string;

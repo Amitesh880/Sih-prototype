@@ -1,5 +1,5 @@
 import React from 'react';
-import { QuestionMarkCircleIcon, DocumentTextIcon, BookOpenIcon } from '@heroicons/react/24/outline'; // Re-using icons
+import {DocumentTextIcon, BookOpenIcon } from '@heroicons/react/24/outline'; // Re-using icons
 
 const SupportResourcesCard: React.FC = () => {
   return (

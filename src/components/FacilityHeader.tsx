@@ -1,6 +1,6 @@
 import React from 'react';
 import { MapPinIcon, ClockIcon, PhoneIcon, StarIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
-import { ArrowTopRightOnSquareIcon, ShareIcon } from '@heroicons/react/24/solid'; // For Directions icon
+import { ArrowTopRightOnSquareIcon} from '@heroicons/react/24/solid'; // For Directions icon
 
 interface FacilityHeaderProps {
   name: string;
