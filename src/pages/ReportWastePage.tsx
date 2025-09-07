@@ -96,8 +96,8 @@ const ReportWastePage: React.FC = () => {
   return (
     <div className="p-8 bg-gray-50 flex-1 overflow-y-auto">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">Report Waste</h1>
-        <p className="text-gray-600 mt-1">Identify and report waste with the power of AI.</p>
+        <h1 className="text-3xl font-bold text-gray-900">Analyze Waste</h1>
+        <p className="text-gray-600 mt-1">Identify and analyze waste with the power of AI.</p>
       </div>
 
       <div className="max-w-xl mx-auto bg-white p-8 rounded-3xl shadow-lg space-y-6">
